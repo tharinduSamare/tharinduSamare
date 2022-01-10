@@ -1,6 +1,6 @@
 ### Hello, I am [Tharindu](https://www.linkedin.com/in/tharindu-samarakoon-993b7416b/) 👋
 
-I am an electronic undergraduate who is really passionate in digital system designing and optimization. I was a former Trainee Associate Electronic Engineer in [Zone24x7](https://zone24x7.com/)
+I am an electronic undergraduate who is really passionate in digital system designing and optimization. I was a former Trainee Associate Electronic Engineer at [Zone24x7](https://zone24x7.com/)
 
 <!--
 **tharinduSamare/tharinduSamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
