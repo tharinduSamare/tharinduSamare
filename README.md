@@ -1,6 +1,6 @@
 ### Hello, I am [Tharindu](https://www.linkedin.com/in/tharindu-samarakoon-993b7416b/) 👋
 
-I am an Electronic Engineer at [Paraqum Technologies](https://www.paraqum.com/index.html) working as a Verification Engineer to [SiFive, Inc (US)](https://www.sifive.com/) (contract) who is really passionate in digital electronics and robotics. I was an [ENTC](https://ent.uom.lk/) undergraduate in University of Moratuwa, Sri Lanka.
+I am an Electronic Engineer at [Paraqum Technologies]([https://www.paraqum.com/index.html](https://designservices.paraqum.com/)) working as a Verification Engineer to [SiFive, Inc (US)](https://www.sifive.com/) (contract) who is really passionate in digital electronics and robotics. I was an [ENTC](https://ent.uom.lk/) undergraduate in University of Moratuwa, Sri Lanka.
 
 <!--
 **tharinduSamare/tharinduSamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
